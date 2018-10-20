@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FirebaseSample</string>
+    <string name="app_update_default_title">App Update</string>
+    <string name="app_update_default_description">Looks like you have an older\nversion of the app.\nPlease update to get latest\nfeatures and best experience.</string>
+    <string name="app_update_positive_text">UPDATE NOW</string>
+</resources>
